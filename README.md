@@ -1,0 +1,1 @@
+The goal of this python project is to simulate a functioning replica of ESA's Mars Rover Rosalind Franklin (from the EXOMARS program) with the goal of developing and testing the ground segment of the replica, whose UI is built using COSMOS, from Ball Aerospace
